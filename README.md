@@ -1,1 +1,1 @@
-Norvig spell sorrector 
+Norvig spell corrector 
